@@ -3,7 +3,8 @@
 
 :mailbox:  brunadaviesw@gmail.com // http://brunaw.com/
 <br>
-:mortar_board:  Statistics, current PhD Student in Bayesian Machine Learning 
+:mortar_board:  
+First-Class Honours (BSc) in Statistics, current PhD Student in Bayesian Machine Learning 
 <br>
 
 
